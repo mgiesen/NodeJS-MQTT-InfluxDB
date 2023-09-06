@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "consola": "^3.2.3",
+    "dotenv": "^16.3.1",
+    "influx": "^5.9.3",
+    "mqtt": "^5.0.4"
+  }
+}
