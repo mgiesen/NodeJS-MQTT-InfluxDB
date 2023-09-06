@@ -2,6 +2,10 @@
 
 This Node.js script provides a solution for receiving MQTT messages, processing them, and writing them to an InfluxDB database. It is designed to be configurable and adaptable to various MQTT message structures.
 
+## Motivation
+
+I created this script because I want to collect data from various MQTT devices in my home network, store it in a database, and then visualize it using Grafana. While there are existing solutions like NodeRED for this purpose, I found them less intuitive and adaptable to my preferences.
+
 ## Features
 
 - **Configurability**: The script reads configuration parameters from an external file, allowing you to define MQTT topics, InfluxDB connection details, and data mappings.
