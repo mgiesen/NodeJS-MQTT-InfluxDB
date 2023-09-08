@@ -1,3 +1,5 @@
+#NodeJS-MQTT-InfluxDB
+
 This Node.js script provides a solution for receiving MQTT messages, processing them, and writing them to an InfluxDB database. It is designed to be configurable and adaptable to various MQTT message structures.
 
 ## Motivation
